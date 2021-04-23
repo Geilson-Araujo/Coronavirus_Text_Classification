@@ -1,0 +1,5 @@
+__pycache__
+PyTorch/
+TensorFlow/crawl-300d-2M.vec
+TensorFlow/wiki-news-300d-1M.vec
+TensorFlow/best_model.h5
